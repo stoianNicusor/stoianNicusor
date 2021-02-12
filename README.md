@@ -1,5 +1,5 @@
 # About Me
-Hello ! I am Stoian Nicusor Andrei, a student living in Bucharest, Romania. I am passionate about web development. At this point I have knowledges of HTML, CSS, SCSS, Js and reactJS. I am also passionate about personal development.
+Hello! I am Stoian Nicusor Andrei, a student living in Bucharest, Romania. I am passionate about web development. At this point I have knowledge of HTML, CSS, SCSS, JS and reactJS. I am also passionate about personal development.
 
 # Stats
 
