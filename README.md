@@ -14,15 +14,15 @@ Hello ! I am Stoian Nicusor Andrei, a student living in Bucharest, Romania. I am
 # Personal Projects
 
 <a href = "https://github.com/TudorGalatan/Proiect1">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark&hide_border" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=stoianNicusor&repo=Proiect1&theme=dark&hide_border" align = "center" />
 </a>
 
 <a href = "https://github.com/stoianNicusor/currency">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=stoianNicusor&repo=currency&theme=dark" align = "center" />
 </a>
 
 <a href = "https://github.com/stoianNicusor/Weather-App">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=stoianNicusor&repo=Weather-App&theme=dark" align = "center" />
 </a>
 
 
