@@ -13,7 +13,7 @@ Hello! I am Stoian Nicusor Andrei, a student living in Bucharest, Romania. I am 
 
 # Personal Projects
 
-<a href = "https://github.com/TudorGalatan/Proiect1">
+<a href = "https://github.com/stoianNicusor/Proiect1">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=stoianNicusor&repo=Proiect1&theme=dark&hide_border" align = "center" />
 </a>
 
