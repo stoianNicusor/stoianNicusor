@@ -25,4 +25,8 @@ Hello! I am Stoian Nicusor Andrei, a student living in Bucharest, Romania. I am 
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=stoianNicusor&repo=Weather-App&theme=dark" align = "center" />
 </a>
 
+<a href = "https://github.com/stoianNicusor/todo">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=stoianNicusor&repo=todo&theme=dark" align = "center" />
+</a>
+
 
