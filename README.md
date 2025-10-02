@@ -13,6 +13,14 @@ Hello! I am Stoian Nicusor Andrei, a student living in Bucharest, Romania. I am 
 
 # Personal Projects
 
+<a href = "https://github.com/stoianNicusor/crypto-project-redux">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=stoianNicusor&repo=crypto-project-redux&theme=dark&hide_border" align = "center" />
+</a>
+
+<a href = "https://github.com/stoianNicusor/Apple-website-clone">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=stoianNicusor&repo=Apple-website-clone&theme=dark&hide_border" align = "center" />
+</a>
+
 <a href = "https://github.com/stoianNicusor/Proiect1">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=stoianNicusor&repo=Proiect1&theme=dark&hide_border" align = "center" />
 </a>
